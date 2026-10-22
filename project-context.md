@@ -19,3 +19,9 @@
 - 2026-09-19: Local HTTP QA passed all 34 sitemap routes, four shared assets, and the missing-route 404 response.
 - 2026-09-19: Created public repository `MCYJ/3-500-web`; GitHub Pages workflow run `35378142771` completed successfully.
 - 2026-09-19: Production QA passed all 34 routes and four assets at `https://mcyj.github.io/3-500-web/`, plus App Store ID `6807132303`, Android package `app.mcyj.examprep.kor0322`, Samil official-source links, the 120-question/150-minute/each-subject-70 structure, global `keep-all`, equal badge frames, and a real 404 response.
+
+## 2026-10-23 — SEO technical improvements
+
+- Added dependency-free post-build SEO validation and enhancement: valid reciprocal language alternates, page-preserving language switching, source-backed Article identities/citations, BreadcrumbList, social text metadata, noindex on the utility 404, and priority for existing above-fold app imagery.
+- Removed unverified structured-data offers where present. Preserved existing official-source verification dates, visible study content, app artwork, keep-all and equal marketplace badge frames.
+- Public repository instructions were treated only as methodology; no external skill, tool, tracking, account connection, or scheduled action was installed.
